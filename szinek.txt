@@ -1,3 +1,6 @@
 piros 
 kék 
 lila
+fekete
+feher
+zold
